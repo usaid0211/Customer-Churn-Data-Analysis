@@ -1,4 +1,4 @@
-Overview
+**Overview**
 
 This project aims to perform Exploratory Data Analysis (EDA) on a telecom customer churn dataset to understand key factors influencing customer retention. The analysis involves data cleaning, visualization, and statistical insights to identify patterns and trends in customer churn behavior.
 
@@ -53,7 +53,7 @@ Matplotlib & Seaborn: Visualization
 
 Scikit-learn: Basic feature analysis
 
-📈 Key Insights
+📈 **Key Insights**
 Long-term contract customers have lower churn rates.
 
 Customers with monthly billing and electronic check payments churn more frequently.
